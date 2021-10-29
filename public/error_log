@@ -1,0 +1,1 @@
+[21-Oct-2021 17:33:24 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1052672 bytes) in /home2/googolpl/public_html/test/vendor/symfony/mime/FileinfoMimeTypeGuesser.php on line 60
